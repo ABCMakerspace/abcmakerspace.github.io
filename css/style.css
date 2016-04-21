@@ -662,7 +662,7 @@ a:visited {
   line-height: 40px;
   text-align: center;
   margin: 20px auto 10px;
-  background: #38b7ea;
+  background: #3b5998;
   -webkit-border-radius: 20px;
   border-radius: 20px;
   -webkit-transition: 0.2s ease;
@@ -671,7 +671,7 @@ a:visited {
   transition: 0.2s ease;
 }
 #profile .inner .base-info #follow:hover {
-  background: #49c8fb;
+  background: #3b5998;
 }
 #profile .inner .article-info {
   padding: 0px;
